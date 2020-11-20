@@ -1,4 +1,4 @@
-# Hi I'm Helari Sosi 👋
+# Hi I'm Helari 👋
 
 I'm a Full-Stack developer working as a consultant for School of Applied Technology. I'm currently based in Stavanger, Norway.
 
